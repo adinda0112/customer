@@ -94,7 +94,7 @@ class HasilDeteksiPage extends StatelessWidget {
           ],
         ),
       ),
-      bottomNavigationBar: const BottomNav(currentIndex: 1),
+      bottomNavigationBar: const BottomNav(currentIndex: 2),
     );
   }
 }

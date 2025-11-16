@@ -63,6 +63,8 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/logo_temantukang.png
+    - assets/images/panduankiri.jpeg
+    - assets/images/panduankanan.jpeg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
